@@ -1,30 +1,39 @@
-# 💫 About Me:
-Hi 👋, I'm Bhuvanesh Dasarathan<br> Data Analyst | Fitness Enthusiast: Insightful by Day, Fit by Choice.🔭 I’m currently working on Data Analytics Portfolio Projects.<br>🌱 I’m currently learning Harmonizing AI & Data Alchemy: Orchestrating Uncharted Insights.<br> 👯 I’m looking to collaborate on Collaborating on an open-source project to enhance analytics tools for the community.<br> 🤝 I’m looking for help with Seeking assistance to integrate advanced data analytics features.<br>
+<h1 align="center">Hi 👋, I'm Bhuvanesh Dasarathan</h1>
+<h3 align="center">Data Analyst | Fitness Enthusiast: Insightful by Day, Fit by Choice</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvaneshbeard&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvaneshbeard" /> </p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Bhuva Nesh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/beard_on_muscle) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/bhuvanesh-dasarathan-12043516a) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ThrivesMind) 
+- 🔭 I’m currently working on **Data Analytics Portfolio Projects.**
 
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bhuvaneshbeard&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bhuvaneshbeard&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvaneshbeard&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+- 🌱 I’m currently learning **Harmonizing AI & Data Alchemy: Orchestrating Uncharted Insights.**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bhuvaneshbeard&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+- 👯 I’m looking to collaborate on **Collaborating on an open-source project to enhance analytics tools for the community.**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🤝 I’m looking for help with **Seeking assistance to integrate advanced data analytics features.**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bhuvaneshbeard&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/bhuvanesh-dasarathan](https://www.novypro.com/profile_projects/bhuvanesh-dasarathan)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+- 💬 Ask me about **📊Power BI visualizations 🔍 SQL for data analysis 🏋️‍♂️ Data-fitness fusion 🚀 Transitioning into analytics**
 
----
-[![](https://visitcount.itsvg.in/api?id=bhuvaneshbeard&icon=0&color=0)](https://visitcount.itsvg.in)
+- 📫 How to reach me **dasarathanb3@gmail.com**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📄 Know about my experiences [file:///C:/Users/bhuva/Downloads/Bhuvanesh-Dasarathan-Resume.pdf](file:///C:/Users/bhuva/Downloads/Bhuvanesh-Dasarathan-Resume.pdf)
+
+- ⚡ Fun fact **My data jokes are top tier, just like my code! 😄**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/bhuvanesh-dasarathan-12043516a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/bhuvanesh-dasarathan-12043516a" height="30" width="40" /></a>
+<a href="https://fb.com/bhuva nesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhuva nesh" height="30" width="40" /></a>
+<a href="https://instagram.com/beard_on_muscle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beard_on_muscle" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/thrivesmind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thrivesmind" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvaneshbeard&show_icons=true&locale=en&layout=compact" alt="bhuvaneshbeard" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuvaneshbeard&show_icons=true&locale=en" alt="bhuvaneshbeard" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvaneshbeard&" alt="bhuvaneshbeard" /></p>
