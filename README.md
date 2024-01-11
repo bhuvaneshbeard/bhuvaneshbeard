@@ -9,11 +9,9 @@
 
 - 🌱 learning **Harmonizing AI & Data Alchemy: Orchestrating Uncharted Insights.**
 
-- 👯 Open to collaborate on **enhancing analytics tools for the community.**
+- 👯 Open to collaborate on **enhancing analytics tools for the community.** <img align="Right" alt="Coding" width="160" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 - 🤝 Seeking help with **integrating advanced data analytics features.**
-
-  <img align="Right" alt="Coding" width="160" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 - 👨‍💻 Projects available at [Novypro-Bhuvanesh Dasarathan](https://www.novypro.com/profile_projects/bhuvanesh-dasarathan)
 
