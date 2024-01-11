@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Bhuvanesh Dasarathan</h1>
 <h3 align="center">Data Analyst | Fitness Enthusiast: Insightful by Day, Fit by Choice</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/09/3f/18/093f1861fc92b3a0ba497ece177b27e6.gif">
