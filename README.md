@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Seeking assistance to integrate advanced data analytics features.**
 
-  <img align="right" alt="Coding" width="300" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
+  <img align="right" alt="Coding" width="200" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
 - 👨‍💻 All of my projects are available at [Novypro-Bhuvanesh Dasarathan](https://www.novypro.com/profile_projects/bhuvanesh-dasarathan)
 
