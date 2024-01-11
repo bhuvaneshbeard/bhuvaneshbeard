@@ -12,7 +12,7 @@
 - 👯 Open to collaborate on **enhancing analytics tools for the community.**
   
 
- <img align="left" alt="Coding" width="300" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+ <img align="right" alt="Coding" width="300" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
  
 
 - 🤝 Seeking help with **integrating advanced data analytics features.**
