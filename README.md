@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhuvanesh Dasarathan</h1>
 <h3 align="center">Data Analyst | Fitness Enthusiast: Insightful by Day, Fit by Choice</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/09/3f/18/093f1861fc92b3a0ba497ece177b27e6.gif">
-
+<img align="left" alt="Coding" width="200" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvaneshbeard&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvaneshbeard" /> </p>
 
@@ -12,8 +12,6 @@
 - 👯 I’m looking to collaborate on **Collaborating on an open-source project to enhance analytics tools for the community.**
 
 - 🤝 I’m looking for help with **Seeking assistance to integrate advanced data analytics features.**
-
-  <img align="right" alt="Coding" width="200" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
 - 👨‍💻 All of my projects are available at [Novypro-Bhuvanesh Dasarathan](https://www.novypro.com/profile_projects/bhuvanesh-dasarathan)
 
