@@ -9,7 +9,8 @@
 
 - 🌱 learning **Harmonizing AI & Data Alchemy: Orchestrating Uncharted Insights.**
 
-- 👯 Open to collaborate on **enhancing analytics tools for the community.** <img align="Right" alt="Coding" width="160" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+- 👯 Open to collaborate on **enhancing analytics tools for the community.**
+- <img align="Right" alt="Coding" width="160" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 
 - 🤝 Seeking help with **integrating advanced data analytics features.**
 
