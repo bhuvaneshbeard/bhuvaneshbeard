@@ -5,21 +5,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvaneshbeard&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvaneshbeard" /> </p>
 
-- 🔭 I’m currently working on **Data Analytics Portfolio Projects.**
+- 🔭 Crafting  **_Data Analytics Portfolio Projects_.**
 
-- 🌱 I’m currently learning **Harmonizing AI & Data Alchemy: Orchestrating Uncharted Insights.**
+- 🌱 learning **_Harmonizing AI & Data Alchemy: Orchestrating Uncharted Insights_.**
 
-- 👯 I’m looking to collaborate on **Collaborating on an open-source project to enhance analytics tools for the community.**
+- 👯 Open to collaborate on **_enhancing analytics tools for the community_.**
 
-- 🤝 I’m looking for help with **Seeking assistance to integrate advanced data analytics features.**
+- 🤝 Seeking help with **_integrating advanced data analytics features_.**
 
-- 👨‍💻 All of my projects are available at [Novypro-Bhuvanesh Dasarathan](https://www.novypro.com/profile_projects/bhuvanesh-dasarathan)
+- 👨‍💻 Projects available at _[Novypro-Bhuvanesh Dasarathan]_(https://www.novypro.com/profile_projects/bhuvanesh-dasarathan)
 
-- 💬 Ask me about **📊Power BI visualizations 🔍 SQL for data analysis 🏋️‍♂️ Data-fitness fusion 🚀 Transitioning into analytics**
+- 💬 Ask me about **_📊Power BI 🔍 SQL 🏋️‍♂️ Data-fitness fusion 🚀 Analytics Transition_.**
 
-- 📫 How to reach me **dasarathanb3@gmail.com**
+- 📫  reach me  at **_dasarathanb3@gmail.com_**
 
-- ⚡ Fun fact **My data jokes are top-tier, just like my code! 😄**
+- ⚡ Fun fact **_My data jokes are top-tier, just like my code! 😄_**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
