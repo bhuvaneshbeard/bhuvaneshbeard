@@ -5,21 +5,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvaneshbeard&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvaneshbeard" /> </p>
 
-- 🔭 Crafting  **_Data Analytics Portfolio Projects_.**
+- 🔭 Crafting  **Data Analytics Portfolio Projects.**
 
-- 🌱 learning **_Harmonizing AI & Data Alchemy: Orchestrating Uncharted Insights_.**
+- 🌱 learning **Harmonizing AI & Data Alchemy: Orchestrating Uncharted Insights.**
 
-- 👯 Open to collaborate on **_enhancing analytics tools for the community_.**
+- 👯 Open to collaborate on **enhancing analytics tools for the community.**
 
-- 🤝 Seeking help with **_integrating advanced data analytics features_.**
+- 🤝 Seeking help with **integrating advanced data analytics features.**
 
-- 👨‍💻 Projects available at _[Novypro-Bhuvanesh Dasarathan]_(https://www.novypro.com/profile_projects/bhuvanesh-dasarathan)
+- 👨‍💻 Projects available at [Novypro-Bhuvanesh Dasarathan](https://www.novypro.com/profile_projects/bhuvanesh-dasarathan)
 
-- 💬 Ask me about **_📊Power BI 🔍 SQL 🏋️‍♂️ Data-fitness fusion 🚀 Analytics Transition_.**
+- 💬 Ask me about **📊Power BI 🔍 SQL 🏋️‍♂️ Data-fitness fusion 🚀 Analytics Transition.**
 
-- 📫  reach me  at **_dasarathanb3@gmail.com_**
+- 📫  reach me  at **dasarathanb3@gmail.com**
 
-- ⚡ Fun fact **_My data jokes are top-tier, just like my code! 😄_**
+- ⚡ Fun fact **My data jokes are top-tier, just like my code! 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
