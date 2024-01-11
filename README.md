@@ -11,15 +11,13 @@
 
 - 🤝 I’m looking for help with **Seeking assistance to integrate advanced data analytics features.**
 
-- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/bhuvanesh-dasarathan](https://www.novypro.com/profile_projects/bhuvanesh-dasarathan)
+- 👨‍💻 All of my projects are available at [Novypro-Bhuvanesh Dasarathan](https://www.novypro.com/profile_projects/bhuvanesh-dasarathan)
 
 - 💬 Ask me about **📊Power BI visualizations 🔍 SQL for data analysis 🏋️‍♂️ Data-fitness fusion 🚀 Transitioning into analytics**
 
 - 📫 How to reach me **dasarathanb3@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/bhuva/Downloads/Bhuvanesh-Dasarathan-Resume.pdf](file:///C:/Users/bhuva/Downloads/Bhuvanesh-Dasarathan-Resume.pdf)
-
-- ⚡ Fun fact **My data jokes are top tier, just like my code! 😄**
+- ⚡ Fun fact **My data jokes are top-tier, just like my code! 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
