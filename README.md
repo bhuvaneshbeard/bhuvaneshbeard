@@ -16,6 +16,8 @@
 
 - 💬 Ask me about **📊Power BI 🔍 SQL 🏋️‍♂️ Data-fitness fusion 🚀 Analytics Transition.**
 
+  <img align="right" alt="Coding" width="300" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+
 - 📫  reach me  at **dasarathanb3@gmail.com**
 
 - ⚡ Fun fact **My data jokes are top-tier, just like my code! 😄**
