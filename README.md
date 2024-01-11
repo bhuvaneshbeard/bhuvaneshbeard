@@ -4,17 +4,13 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvaneshbeard&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvaneshbeard" /> </p>
-
+<img align="right" alt="Coding" width="300" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 - 🔭 Crafting  **Data Analytics Portfolio Projects.**
 
 - 🌱 learning **Harmonizing AI & Data Alchemy: Orchestrating Uncharted Insights.**
 
 - 👯 Open to collaborate on **enhancing analytics tools for the community.**
   
-
- <img align="right" alt="Coding" width="300" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif">
- 
-
 - 🤝 Seeking help with **integrating advanced data analytics features.**
 
 - 👨‍💻 Projects available at [Novypro-Bhuvanesh Dasarathan](https://www.novypro.com/profile_projects/bhuvanesh-dasarathan)
