@@ -1,6 +1,6 @@
 ![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)
 <h1 align="center">Hi 👋, I'm Bhuvanesh Dasarathan</h1>
-<h3 align="center">Data Analyst | Fitness Enthusiast: Insightful by Day, Fit by Choice</h3>
+<h3 align="center">Data Analyst:Insightful by Day| Fitness Enthusiast: Fit by Choice</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/09/3f/18/093f1861fc92b3a0ba497ece177b27e6.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvaneshbeard&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvaneshbeard" /> </p>
